@@ -5,6 +5,3 @@ matplotlib
 seaborn
 jupyter
 notebook
-tensorflow
-torch
-opencv-python
